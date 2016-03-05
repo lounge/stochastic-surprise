@@ -1,0 +1,12 @@
+{
+  "ebay":
+    {
+      "username": "username",
+      "password": "password"
+    },
+  "paypal":
+    {
+      "username": "username",
+      "password": "password"
+    }
+}
