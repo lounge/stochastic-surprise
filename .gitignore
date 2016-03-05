@@ -1,2 +1,4 @@
 /log/*.txt
 /images/*.png
+
+*.DS_Store
